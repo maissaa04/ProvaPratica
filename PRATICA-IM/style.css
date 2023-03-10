@@ -1,0 +1,31 @@
+
+.container{
+    background-color: #FDA4BA;
+    width: 1280px;
+}
+.nav{
+    padding: 1px;
+    background-color: #FE7F9C;
+}
+.nav-link{
+    padding: 0.8rem;
+    text-decoration: none;
+    color: white;
+    font-style: oblique;
+}
+article{
+    padding: 0.8rem;
+    background-color:  #FDA4BA;
+    color: white;
+}
+
+.rodape{
+    background-color: #FE7F9C;
+}
+footer p{
+    text-align: start;
+    color: white;
+}
+div{
+    background-color: #FDA4BA;
+}
